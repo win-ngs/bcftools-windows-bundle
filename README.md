@@ -1,4 +1,4 @@
-# BCFtools Windows Bundle
+# BCFtools Unofficial Windows Bundle
 
 This repository publishes a small Windows x64 bundle of `bcftools.exe` copied
 from the MSYS2 UCRT64 environment, together with the runtime DLLs needed to run
